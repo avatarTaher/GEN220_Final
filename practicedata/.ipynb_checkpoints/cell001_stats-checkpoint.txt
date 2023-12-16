@@ -1,0 +1,31 @@
+{
+  "cell001_GroundTruth.CNG.swc":{
+    "axon":{
+      "max_section_lengths":null,
+      "sum_section_lengths":0.0,
+      "sum_section_volumes":0.0,
+      "max_section_branch_orders":null
+    },
+    "apical_dendrite":{
+      "max_section_lengths":null,
+      "sum_section_lengths":0.0,
+      "sum_section_volumes":0.0,
+      "max_section_branch_orders":null
+    },
+    "basal_dendrite":{
+      "max_section_lengths":null,
+      "sum_section_lengths":0.0,
+      "sum_section_volumes":0.0,
+      "max_section_branch_orders":null
+    },
+    "all":{
+      "max_section_lengths":22.738489151000977,
+      "sum_section_lengths":285.2544860839844,
+      "sum_section_volumes":102.49039034876351,
+      "max_section_branch_orders":5
+    },
+    "morphology":{
+      "mean_soma_radius":0.5382179688969618
+    }
+  }
+}
